@@ -6,8 +6,8 @@
 ## 💻 Daily Drivers (Current Specs)
 
 ### 🏠 Desktop PC
-| Component | Spec | Opinion / Note |
-| :--- | :--- | :--- |
+| Component | Spec |
+| :--- | :--- |
 | **GPU** | Asus TUF 3060 12 GB Vram |
 | **CPU** | Ryzen 7 3700x |
 | **RAM** | DDR4 2x 16GB 3600Mhz |
