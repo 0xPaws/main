@@ -1,7 +1,7 @@
 ## 📖 Glossary
 
-| Abbreviation | Meaning | Description |
-| :--- | :--- | :--- |
+| Abbreviation | Meaning | Description | Location |
+| :--- | :--- | :--- | :--- |
 | **ILT** | I Learned Today | Daily logs of new technical knowledge. |
 | **WDIDT** | Why Do I Do That | Explaining the logic and motivation behind my actions. |
 | **LX** | Linux | Fixes, configs, and troubleshooting for Arch Linux. |
