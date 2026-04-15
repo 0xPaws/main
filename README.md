@@ -7,4 +7,4 @@
 | **MT** | Monkeytype | Typing speed progress and consistency logs. | -> Knowledge |
 | **EAS** | Everything About Security | Fundamental security principles and best practices. | -> Knowledge |
 | **HW** | Hardware | Setups, devices and opinions paired with experience. | -> Knowledge |
-| **LX** | Linux | Fixes, configs, and troubleshooting for Arch Linux. | -> Data |
+| **LX** | Linux | Fixes, configs, and troubleshooting for Arch Linux. | -> Knowledge |
